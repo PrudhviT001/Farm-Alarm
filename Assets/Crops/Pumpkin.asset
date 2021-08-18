@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09472cf4583e38b42884783561fa32e6, type: 3}
+  m_Name: Pumpkin
+  m_EditorClassIdentifier: 
+  seedSprite: {fileID: 21300000, guid: cfc2556dfa96553499b0f46f45ce6a29, type: 3}
+  deadSprite: {fileID: 21300000, guid: 9039b7430271d2f41a357174bfd9655a, type: 3}
+  doneSprite: {fileID: 21300000, guid: a32e93766d3d0294585f49e292ec3caa, type: 3}
+  seedIsOnGround: 1

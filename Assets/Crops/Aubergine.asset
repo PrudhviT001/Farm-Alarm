@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09472cf4583e38b42884783561fa32e6, type: 3}
+  m_Name: Aubergine
+  m_EditorClassIdentifier: 
+  seedSprite: {fileID: 21300000, guid: 3e9aa05247dbdae439b92425c2c61770, type: 3}
+  deadSprite: {fileID: 21300000, guid: 35a85723afc825d4f9bf7ecc6e0fe75b, type: 3}
+  doneSprite: {fileID: 21300000, guid: b7d7bdff461ddf14eada7dd8d5833785, type: 3}
+  seedIsOnGround: 1
