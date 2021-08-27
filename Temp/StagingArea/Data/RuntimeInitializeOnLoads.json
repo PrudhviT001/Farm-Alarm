@@ -1,0 +1,1 @@
+{"root":[{"assemblyName":"UnityEngine.Purchasing.Codeless","nameSpace":"UnityEngine.Purchasing","className":"CodelessIAPStoreListener","methodName":"InitializeCodelessPurchasingOnLoad","loadTypes":0,"isUnityClass":true},{"assemblyName":"PhotonRealtime","nameSpace":"Photon.Realtime","className":"ConnectionHandler","methodName":"StaticReset","loadTypes":4,"isUnityClass":false}]}
